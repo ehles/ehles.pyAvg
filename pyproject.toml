@@ -1,0 +1,17 @@
+[project]
+name = "d3d4.pyavg"
+version = "0.1.0"
+readme = "README.md"
+license = {text = "MIT License"}
+description = "Average value calculation"
+keywords = ["average", "avg", "stat", "pyavg"]
+requires-python = ">=3.8"
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["./"]
+include = ["d3d4.pyavg"]
+
+[project.urls]
+Homepage = "https://github.com/ehles/ehles.pyavg"
+Repository = "https://github.com/ehles/ehles.pyavg.git"
