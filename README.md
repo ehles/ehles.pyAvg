@@ -9,7 +9,7 @@
 You can install the library via PyPI:
 
 ```bash
-pip install ehles.pyavg
+pip install d3d4.pyavg
 ```
 
 ## Key Features

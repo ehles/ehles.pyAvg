@@ -1,6 +1,6 @@
 [project]
 name = "d3d4.pyavg"
-version = "0.1.0"
+version = "0.1.2"
 readme = "README.md"
 license = {text = "MIT License"}
 description = "Average value calculation"
